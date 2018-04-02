@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="relL">Relative Layout</string>
+    <string name="conL">Constraint Layout</string>
+    <string name="listL">List Layout</string>
+    <string name="gridL">Grid Layout</string>
+    <string name="linL">linear Layout</string>
+
+</resources>
